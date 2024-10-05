@@ -84,12 +84,11 @@ python models/model.py
 
 ## Modal Result Before Improvement:
 
-### Mean Squared Error (MSE): 0.0004651555017138786
-### Root Mean Squared Error (RMSE): 0.021567463961112317
-### Mean Absolute Error (MAE): 0.013755883415600337
-
-### R-squared (R²): 0.9862914681434631
-### Model Accuracy: 98.62914681434631
+- Mean Squared Error (MSE): 0.0004651555017138786
+- Root Mean Squared Error (RMSE): 0.021567463961112317
+- Mean Absolute Error (MAE): 0.013755883415600337
+- R-squared (R²): 0.9862914681434631
+- Model Accuracy: 98.62914681434631
 
 ![predictions_vs_actuals](https://github.com/user-attachments/assets/dd4ae8de-b503-417d-9fc9-d2afad7a0b83)
 
