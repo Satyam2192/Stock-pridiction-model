@@ -94,4 +94,22 @@ python models/model.py
 
 ## Modal Result After Improvement:
 
+--- Results ---
+
+- **Best MSE**: 4.869792779494177e-06
+- **Best parameters**: 
+  - LSTM Units: 200
+  - Dense Units: 50
+  - Dropout Rate: 0.1
+  - Learning Rate: 0.0005
+
+- **Mean Squared Error (MSE)**: 2.9467505371240005e-06
+- **Root Mean Squared Error (RMSE)**: 0.0017166101878772597
+- **Mean Absolute Error (MAE)**: 0.0012187551153146244
+- **R-squared (R²)**: 0.9999131560325623
+- **Model Accuracy**: 99.99131560325623%
+
+![Final_output](https://github.com/user-attachments/assets/a3cede78-3095-4fd4-bbfe-7368d7591ce1)
+
+
 
