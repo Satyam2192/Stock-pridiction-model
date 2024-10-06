@@ -2,3 +2,4 @@ env
 __pycache__
 textScript.py
 .gitignore
+extracted_text.txt
