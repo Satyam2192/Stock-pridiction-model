@@ -22,26 +22,6 @@ keras
 statsmodels
 ```
 
-## Project Structure
-```
-stock-prediction/
-├── data/
-│   ├── stock_price.csv
-│   └── preprocessed_stock_data_*.csv
-├── models/
-│   ├── final_stock_price_model.keras
-│   └── improved_stock_price_model.keras
-├── results/
-│   ├── evaluation_results.csv
-│   └── predictions_vs_actuals.png
-├── scripts/
-│   ├── preprocess.py
-│   ├── model_train.py
-│   ├── evaluate.py
-│   └── model_improvement.py
-└── requirements.txt
-```
-
 ## Setup and Installation
 
 1. Clone the repository:
